@@ -1,0 +1,7 @@
+/dq_sample.txt
+.venv/
+gx/
+__pycache__/
+.idea/
+*/logs
+
