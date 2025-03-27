@@ -14,6 +14,6 @@ class CheckDq:
         print(df)
 
     def dq_check(self):
-        df = self.df
+        print(self.df.describe())
 
 
